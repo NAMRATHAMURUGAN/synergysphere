@@ -1,0 +1,2 @@
+# synergysphere
+Team Collaboration Platform
