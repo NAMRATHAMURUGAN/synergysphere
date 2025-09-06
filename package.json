@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "synergysphere-backend",
   "version": "1.0.0",
   "type": "module",
@@ -20,3 +21,28 @@
     "nodemon": "^3.0.1"
   }
 }
+=======
+  "name": "synergysphere-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^1.5.1",
+    "framer-motion": "^10.12.16",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.16.0",
+    "socket.io-client": "^4.7.2"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.15",
+    "postcss": "^8.4.33",
+    "tailwindcss": "^3.3.5",
+    "vite": "^4.4.9"
+  }
+}
+>>>>>>> 65f17299165cdf2bc0409461b759e57b8e4d8d26
